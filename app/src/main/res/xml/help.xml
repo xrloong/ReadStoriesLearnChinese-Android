@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<help>
+    <message>
+        <sentence>  This application tries a new way to help foreign users to learn Chinese characters.</sentence>
+        <sentence>  It provides some stories written in a foreign language but with some Chinese words.</sentence>
+        <sentence>  It also shows their meaning in the language above those Chinese words.</sentence>
+		<br /><br />
+		<sentence>  Here is the exmple, A {老虎|tiger} caught a {狐狸|fox}.</sentence>
+        <sentence>  老虎 means a tiger in English while 狐狸 means a fox in English.</sentence>
+        <sentence>  Thus the sentence means "A tiger caught a fox."</sentence>
+        <sentence>  Moreover, you can just pronunce it as "A tiger caught a fox."</sentence>
+		<br /><br />
+        <sentence>  After being similar with this style, you may also tried to "Hide annotation."</sentence>
+        <sentence>  It may only shows "A 老虎 caught a 狐狸" withough the explanation.</sentence>
+    </message>
+</help>
