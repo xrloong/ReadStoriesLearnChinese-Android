@@ -4,7 +4,6 @@ apply plugin: 'android-apt'
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
-    useLibrary 'org.apache.http.legacy'
     defaultConfig {
         applicationId "idv.gaozao.readstory"
         minSdkVersion 14
@@ -31,4 +30,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.jakewharton:butterknife:8.4.0'
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
 }
